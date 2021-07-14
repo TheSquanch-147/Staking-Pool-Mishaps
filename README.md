@@ -8,7 +8,9 @@ If you have any questions for me or know of any (new or old) rugpulls that I may
 
 ## Contact Info
 Discord: [https://discordapp.com/users/0714](https://discordapp.com/users/0714)
+
 Twitter: [https://twitter.com/TheSquanch3](https://twitter.com/TheSquanch3)
+
 GitHub: [https://github.com/TheSquanch-147](https://github.com/TheSquanch-147)
 
 # SLASHINGS
