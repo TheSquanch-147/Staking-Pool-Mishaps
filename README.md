@@ -15,13 +15,13 @@ GitHub: [https://github.com/TheSquanch-147](https://github.com/TheSquanch-147)
 
 # SLASHINGS
 
-|   SERVICE  | VALIDATORS SLASHED |    DATE    |
-| ---------- | ------------------ | ---------- |
-|    STAKER  |         9          | 02.05.2021 |
-|    STAKER  |        36          | 02.02.2021 |
-|    STAKER  |         2          | 12.23.2020 |
-|    STAKER  |        14          | 12.20.2020 |
-|  ANKR STKR |        10          | 12.03.2020 |
+|     SERVICE   | VALIDATORS SLASHED |    DATE    |  PRESS RELEASE |
+| ----------    | ------------------ | ---------- |----------------|
+|    STAKED.US  |         9          | 02.05.2021 | N/A |
+|    STAKED.US  |        36          | 02.02.2021 | [Link](https://blog.staked.us/blog/eth2-post-mortem) |
+|    STAKED.US  |         2          | 12.23.2020 | N/A |
+|    STAKED.US  |        14          | 12.20.2020 | N/A |
+|  ANKR STKR    |        10          | 12.03.2020 | [Link](https://twitter.com/ankr/status/1334988119163203588?lang=en) |
 
 # RUGPULLS
 
