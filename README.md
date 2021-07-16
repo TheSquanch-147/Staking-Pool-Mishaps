@@ -25,8 +25,8 @@ GitHub: [https://github.com/TheSquanch-147](https://github.com/TheSquanch-147)
 
 # RUGPULLS
 
-| SERVICE | DESCRIPTION | DATE | ARTICLE |
+| SERVICE | DESCRIPTION | DATE | PRESS RELEASE |
 | --- | --- | --- | --- |
-| STAKEHOUND | Crypto-custody firm FireBlocks lost access to the private keys securing 38,178 ETH | 06/22/2021 | [NewsBTC](https://www.newsbtc.com/news/ethereum/stakehound-loses-private-keys/#:~:text=StakeHound%20Loses%20Investors%20Private%20Keys,%20$72%20Million%20Worth%20Of%20Ethereum%20Gone,-by%20Best%20Owie&text=StakeHound%20has%20announced%20that%20it,to%20negligence%20of%20the%20company.)
-| SharedStake | Dev member withdrew and dumped $500k worth of the org's governance token (SGT), dropping its value by 95%| 06/24/2021 | [The Defiant](https://thedefiant.io/sharedstake-down-95-after-insider-exploit/)
+| STAKEHOUND | Crypto-custody firm FireBlocks lost access to the private keys securing 38,178 ETH | 06/22/2021 | [Link](https://www.fireblocks.com/blog/stakehound-eth-2-0-event/)
+| SharedStake | Dev member withdrew and dumped $500k worth of the org's governance token (SGT), dropping its value by 95%| 06/24/2021 | [Link](https://sharedstake.medium.com/post-mortem-of-the-sharedstake-incident-4625eeacc61f)
 
