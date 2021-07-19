@@ -27,8 +27,8 @@ ANKR STKR | 10                                                    | 12.03.2020 |
 
 # RUGPULLS
 
-| SERVICE | DESCRIPTION | DATE | PRESS RELEASE |
-| --- | --- | --- | --- |
-| STAKEHOUND | Crypto-custody firm FireBlocks lost access to the private keys securing 38,178 ETH | 06/22/2021 | [Link](https://www.fireblocks.com/blog/stakehound-eth-2-0-event/)
-| SharedStake | Dev member withdrew and dumped $500k worth of the org's governance token (SGT), dropping its value by 95%| 06/24/2021 | [Link](https://sharedstake.medium.com/post-mortem-of-the-sharedstake-incident-4625eeacc61f)
+SERVICE     | DESCRIPTION                                                                                               | DATE       | PRESS RELEASE
+----------- | --------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------
+STAKEHOUND  | Crypto-custody firm FireBlocks lost access to the private keys securing 38,178 ETH                        | 06/22/2021 | [Link](https://www.fireblocks.com/blog/stakehound-eth-2-0-event/)
+SharedStake | Dev member withdrew and dumped $500k worth of the org's governance token (SGT), dropping its value by 95% | 06/24/2021 | [Link](https://sharedstake.medium.com/post-mortem-of-the-sharedstake-incident-4625eeacc61f)
 
