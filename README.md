@@ -2,9 +2,11 @@
 ## Objective
 I aim to have this document serve as an up-to-date register of every slashing event & rugpull that occurs across the various staking pools taking place on the Ethereum network. 
 
-The intent is to update this document on a weekly basis (minimum), at least until I am able to finish the script to automate the process. Crypto is only a part-time job for me right now so my time to work on this & other projects is limited.
+I intend to update this document on a weekly basis at minimum, but I'll usually check up on these events daily.
 
-If you have any questions for me or know of any (new or old) rugpulls that I may be missing, please reach out with the contact information below, or submit a pull request.
+If you have any questions for me or know of any (new or old) rugpulls related to staking services that I may be missing, please reach out with the contact information below, or submit a pull request.
+
+For an up-to-date list of all rugpulls, hacks, exploits, etc... taking place on Ethereum and its  sidechains, see this link: [https://github.com/TheSquanch-147/Rugpulls-Hacks-Exploits-List](https://github.com/TheSquanch-147/Rugpulls-Hacks-Exploits-List)
 
 ## Contact Info
 Discord: [https://discordapp.com/users/0714](https://discordapp.com/users/0714)
