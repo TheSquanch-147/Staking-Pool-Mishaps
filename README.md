@@ -36,7 +36,7 @@ GitHub: [https://github.com/TheSquanch-147](https://github.com/TheSquanch-147)
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------------------------------------------------------------------------------------- |
 | LIDO        | "A misconfiguration within Chorus One’s Lido Ethereum beacon chain setup led to a network-wide drop of participation of about 1% (measured by the so-called attestation rates) on the beacon chain. The issue was fixed within hours of the discovery by the involved teams and minor financial impact did occur." | 08/20/2021 | [Link](https://blog.lido.fi/lido-20-08-2021-orphaned-blocks-in-ethereum-incident-postmortem/) |
 
-# Lowest Average Attestation Effectiveness "Leaderboard" (<80%))
+# Lowest Average Attestation Effectiveness "Leaderboard" (<80%)
 
 | Stake Pool | Average Attestation Effectiveness |
 | ---------- | --------------------------------- |
